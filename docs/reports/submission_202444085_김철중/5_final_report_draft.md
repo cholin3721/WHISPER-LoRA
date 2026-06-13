@@ -7,7 +7,7 @@
 **A Study on Whisper PEFT(LoRA) Fine-tuning for Korean Elderly Speech Recognition**
 
 **저자**: 202444085 김철중
-**소속**: 인덕대학교
+**소속**: 인하공업전문대학
 **날짜**: 2026년 6월 5일
 
 ---
